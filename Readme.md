@@ -9,7 +9,7 @@ Click on the d.exe to play!
 ## Introduction
 
 It's a board game inspired by the board game that only appeared in one of the episode of the famous anime "Yu-gi-oh!". It's called "Dungeon Dice Monsters" 
-![](https://i.imgur.com/VeAWcuD.png =70%x)
+![](https://i.imgur.com/VeAWcuD.png=70%x)
 
 From wiki:
 > "Dungeon Dice monsters was made as a real game in early 2002 as Yu-Gi-Oh!: Dungeondice Monsters, with 137 figures and cards scheduled for release. However, it never really caught on and was canceled within a few months."'
@@ -34,9 +34,9 @@ On the left corner, it's the block the player can expand by summonning this mons
 On the right corner, it shows the monster's name.
 
 In the bottom section, there are Health Point(HP) and its attack power. They would show in green and white color respectively.
-![](https://i.imgur.com/SQVisw8.png =40%x)
+![](https://i.imgur.com/SQVisw8.png=40%x)
 
-![](https://i.imgur.com/u18xrdT.png =50%x)
+![](https://i.imgur.com/u18xrdT.png=50%x)
 
 
 
