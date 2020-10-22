@@ -1,7 +1,8 @@
 # Duel!
 
-The original file would be pretty big.
-You can download the whold project here:
+The original file would be pretty huge(600MB).
+
+You can download the whole project here:
 https://drive.google.com/drive/folders/1xFWrp96fMyeQ-mUsdGIquDf0ldRqSbd9
 
 Click on the d.exe to play!
