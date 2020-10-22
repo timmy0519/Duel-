@@ -1,5 +1,10 @@
 # Duel!
 
+The original file would be pretty big.
+You can download the whold project here:
+https://drive.google.com/drive/folders/1xFWrp96fMyeQ-mUsdGIquDf0ldRqSbd9
+
+Click on the d.exe to play!
 ## Introduction
 
 It's a board game inspired by the board game that only appeared in one of the episode of the famous anime "Yu-gi-oh!". It's called "Dungeon Dice Monsters" 
