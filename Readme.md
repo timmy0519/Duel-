@@ -14,7 +14,7 @@ It's a board game inspired by the board game that only appeared in one of the ep
 From wiki:
 > "Dungeon Dice monsters was made as a real game in early 2002 as Yu-Gi-Oh!: Dungeondice Monsters, with 137 figures and cards scheduled for release. However, it never really caught on and was canceled within a few months."'
 
-My teammates and I try to design a similar game to shout out to this unique game in our childhood memory.
+My teammates and I tried to design a similar game to shout out to this unique game which lives in our childhood memory.
 
 ## How to play?
 
