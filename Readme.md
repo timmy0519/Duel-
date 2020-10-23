@@ -9,6 +9,7 @@ Click on the d.exe to play!
 ## Introduction
 
 It's a board game inspired by the board game that only appeared in one of the episode of the famous anime "Yu-gi-oh!". It's called "Dungeon Dice Monsters" 
+
 ![](https://i.imgur.com/VeAWcuD.png)
 
 From wiki:
